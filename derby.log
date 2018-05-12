@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 06 01:22:55 GMT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0163-330b-67ab-0000135b35a8 
+on database directory memory:/mnt/c/Users/gswee/source/repos/first-website/testdb with class loader java.net.URLClassLoader@2d4a6830 
+Loaded from file:/home/gsweene2/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_162-8u162-b12-0ubuntu0.16.04.2-b12
+user.dir=/mnt/c/Users/gswee/source/repos/first-website
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-43-Microsoft
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
